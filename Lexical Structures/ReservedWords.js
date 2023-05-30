@@ -77,3 +77,5 @@ typeOf
 // V: var, void
 
 // W: while, with
+
+//Y : yield
