@@ -39,3 +39,12 @@ function
 */
 
 // G:get
+
+/* I:
+if
+import 
+in
+instanceOf
+*/
+
+// L: let
