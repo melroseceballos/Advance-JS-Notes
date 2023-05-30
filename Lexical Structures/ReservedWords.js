@@ -15,5 +15,11 @@ catch
 class
 const
 continue
+*/
 
+/* D:
+debugger
+default
+delete
+do
 */
