@@ -1,7 +1,7 @@
 // RESERVED WORDS 
 
-//A:
-/**
+
+/* A:
 as
 async
 await
