@@ -23,3 +23,17 @@ default
 delete
 do
 */
+
+/* E:
+else
+exports
+extends
+*/
+
+/* F:
+false
+finally 
+for
+from
+function
+*/
