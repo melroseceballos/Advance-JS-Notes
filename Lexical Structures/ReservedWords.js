@@ -48,3 +48,8 @@ instanceOf
 */
 
 // L: let
+
+/* N:
+new
+null
+*/
