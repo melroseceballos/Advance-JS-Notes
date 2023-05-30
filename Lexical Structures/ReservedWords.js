@@ -73,3 +73,5 @@ true
 try
 typeOf
 */
+
+// V: var, void
