@@ -64,3 +64,12 @@ static
 super
 switch
 */
+
+/* T:
+target
+this
+throw
+true
+try
+typeOf
+*/
