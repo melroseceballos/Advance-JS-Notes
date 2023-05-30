@@ -1,4 +1,6 @@
-// RESERVED WORDS 
+// RESERVED WORDS for future versions
+// enum, implements, interface,package,private
+//protected, public 
 
 
 /* A:
